@@ -1,18 +1,21 @@
-# SOAR
+# SQL Fundamentals
 
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Outline the basic processes of mysql in linux.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Understand what databases are, as well as key terms and concepts
+- Understand the different types of databases 
+- Understand what SQL is
+- Understand and be able to use SQL CRUD Operations
+- Understand and be able to use SQL Clauses Operations
+- Understand and be able to use SQL Operations
+- Understand and be able to use SQL Operators
+- Understand and be able to use SQL Functions
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
